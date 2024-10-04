@@ -17,10 +17,7 @@ streamlit run arabidopsis-app.py
 - if arabidopsis ID then it will give the functions.
 - if arabidopsis ID then it will give the functions.
 
-Gaurav \
-Academic Staff Member \
-Bioinformatics \
-Institute for Biochemistry and Biology \
+Gaurav Sablok \
 University of Potsdam \
 Potsdam,Germany
 
